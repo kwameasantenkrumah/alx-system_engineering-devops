@@ -1,1 +1,1 @@
-A script that  lists all the files and directories of the current directory, separated by commas (,).
+A script that creates  a magic file school.mgc that can be used with the command file to detect School data files.
